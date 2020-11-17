@@ -1348,5 +1348,6 @@ export const fileIcons: FileIcons = {
       light: true,
     },
     { name: 'brainfuck', fileExtensions: ['b', 'bf'] },
+    { name: 'staruml', fileExtensions: ['mdj'] },
   ],
 };
