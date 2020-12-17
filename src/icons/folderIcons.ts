@@ -593,6 +593,7 @@ export const folderIcons: FolderTheme[] = [
       },
       { name: 'folder-mjml', folderNames: ['mjml'] },
       { name: 'folder-scala', folderNames: ['scala'] },
+      { name: 'folder-cypress', folderNames: ['cypress'] },
       { name: 'folder-connection', folderNames: ['connection', 'connections'] },
     ],
   },
