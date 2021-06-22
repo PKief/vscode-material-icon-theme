@@ -1473,5 +1473,6 @@ export const fileIcons: FileIcons = {
       fileNames: ['jsconfig.json'],
       fileExtensions: ['jsconfig.json'],
     },
+    { name: 'hjson', fileExtensions: ['hjson'], light: true },
   ],
 };
