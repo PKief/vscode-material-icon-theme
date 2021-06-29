@@ -1324,6 +1324,7 @@ export const fileIcons: FileIcons = {
     { name: 'advpl_include', fileExtensions: ['ch'] },
     { name: 'codeowners', fileNames: ['codeowners'] },
     { name: 'gcp', fileNames: ['.gcloudignore'] },
+    { name: 'amplify', fileNames: ['amplify.yml'] },
     { name: 'disc', fileExtensions: ['iso'] },
     {
       name: 'fortran',
