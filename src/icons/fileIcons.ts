@@ -1389,7 +1389,7 @@ export const fileIcons: FileIcons = {
         'grm',
       ],
     },
-    { name: 'nrwl', fileNames: ['nx.json'] },
+    { name: 'nx', light: true, fileNames: ['nx.json'] },
     { name: 'opam', fileExtensions: ['opam'] },
     {
       name: 'dune',
