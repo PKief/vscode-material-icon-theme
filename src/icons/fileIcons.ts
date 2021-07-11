@@ -1538,5 +1538,9 @@ export const fileIcons: FileIcons = {
       fileNames: ['horusec-config.json'],
       fileExtensions: ['horusec-config.json'],
     },
+    {
+      name: 'bandit',
+      fileNames: ['.bandit.yml', '.bandit.yaml', 'bandit.yaml', '.bandit'],
+    },
   ],
 };
