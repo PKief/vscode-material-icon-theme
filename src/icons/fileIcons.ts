@@ -1547,5 +1547,6 @@ export const fileIcons: FileIcons = {
       fileNames: ['horusec-config.json'],
       fileExtensions: ['horusec-config.json'],
     },
+    { name: 'tox', fileNames: ['tox.ini'] },
   ],
 };
