@@ -648,6 +648,10 @@ export const folderIcons: FolderTheme[] = [
           'contract-tests',
         ],
       },
+      {
+        name: 'folder-queue',
+        folderNames: ['queue', 'queues', 'bull', 'mq'],
+      },
     ],
   },
   {
