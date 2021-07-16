@@ -1483,6 +1483,12 @@ export const fileIcons: FileIcons = {
     { name: 'lolcode', fileExtensions: ['lol'] },
     { name: 'idris', fileExtensions: ['idr', 'ibc'] },
     { name: 'quasar', fileNames: ['quasar.conf.js'] },
+    {
+      name: 'why3',
+      fileExtensions: ['mlw', 'why'],
+      fileNames: ['why3session.xml'],
+      light: true
+    },
     { name: 'pipeline', fileExtensions: ['pipeline'] },
     { name: 'vite', fileNames: ['vite.config.js', 'vite.config.ts'] },
     { name: 'opa', fileExtensions: ['rego'] },
