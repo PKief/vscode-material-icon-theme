@@ -1486,6 +1486,7 @@ export const fileIcons: FileIcons = {
     { name: 'pipeline', fileExtensions: ['pipeline'] },
     { name: 'vite', fileNames: ['vite.config.js', 'vite.config.ts'] },
     { name: 'opa', fileExtensions: ['rego'] },
+    { name: 'semgrep', fileNames: ['.semgrep.yml', '.semgrepignore'] },
     {
       name: 'windicss',
       fileNames: [
