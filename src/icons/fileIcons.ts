@@ -1771,5 +1771,10 @@ export const fileIcons: FileIcons = {
       name: 'gridsome',
       fileNames: ['gridsome.config.js', 'gridsome.server.js'],
     },
+    {
+      name: 'japa',
+      fileNames: ['japaFile.js', 'japaFile.ts'],
+      light: true
+    },
   ],
 };
