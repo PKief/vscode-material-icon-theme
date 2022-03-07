@@ -1778,5 +1778,9 @@ export const fileIcons: FileIcons = {
       name: 'gridsome',
       fileNames: ['gridsome.config.js', 'gridsome.server.js'],
     },
+    {
+      name: 'octave',
+      fileExtensions: ['m']
+    }
   ],
 };
