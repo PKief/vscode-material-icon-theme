@@ -93,6 +93,7 @@ export const fileIcons: FileIcons = {
       ],
       fileNames: ['.htaccess'],
     },
+    { name: 'toml', fileExtensions: ['toml'] },
     {
       name: 'image',
       fileExtensions: [
