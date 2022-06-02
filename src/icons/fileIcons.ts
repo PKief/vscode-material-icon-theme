@@ -339,6 +339,7 @@ export const fileIcons: FileIcons = {
     { name: 'jar', fileExtensions: ['jar'] },
     { name: 'javaclass', fileExtensions: ['class'] },
     { name: 'c', fileExtensions: ['c', 'i', 'mi'] },
+    { name: 'c-main', fileNames: ['main.c'] },
     { name: 'h', fileExtensions: ['h'] },
     {
       name: 'cpp',
@@ -570,6 +571,7 @@ export const fileIcons: FileIcons = {
       name: 'audio',
       fileExtensions: ['mp3', 'flac', 'm4a', 'wma', 'aiff', 'wav'],
     },
+    { name: 'vgm', fileExtensions: ['vgm', 'vgz', 'nsf', 'gym'] },
     { name: 'coffee', fileExtensions: ['coffee', 'cson', 'iced'] },
     { name: 'document', fileExtensions: ['txt'] },
     {
