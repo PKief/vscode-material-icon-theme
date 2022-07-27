@@ -162,7 +162,16 @@ export const folderIcons: FolderTheme[] = [
       },
       {
         name: 'folder-components',
-        folderNames: ['components', 'widget', 'widgets'],
+        folderNames: [
+          'component',
+          'components',
+          'widget',
+          'widgets',
+          'dialog',
+          'dialogs',
+          'modal',
+          'modals',
+        ],
       },
       {
         name: 'folder-verdaccio',
@@ -722,12 +731,20 @@ export const folderIcons: FolderTheme[] = [
         folderNames: ['home', '.home', 'start', '.start'],
       },
       {
+        name: 'folder-dto',
+        folderNames: ['dto', 'dtos'],
+      },
+      {
         name: 'folder-project',
         folderNames: ['project', 'projects', '.project', '.projects'],
       },
       {
         name: 'folder-interface',
         folderNames: ['interface', 'interfaces'],
+      },
+      {
+        name: 'folder-enum',
+        folderNames: ['enum', 'enums'],
       },
       {
         name: 'folder-contract',
