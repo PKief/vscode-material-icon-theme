@@ -2089,5 +2089,9 @@ export const fileIcons: FileIcons = {
         'steadybit.yaml',
       ],
     },
+    {
+      name: 'redwoodjs',
+      fileNames: ['redwood.toml']
+    }
   ],
 };
