@@ -2089,5 +2089,6 @@ export const fileIcons: FileIcons = {
         'steadybit.yaml',
       ],
     },
+    { name: 'capnp', fileExtensions: ['capnp'] },
   ],
 };
