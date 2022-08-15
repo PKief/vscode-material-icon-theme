@@ -162,7 +162,7 @@ export const folderIcons: FolderTheme[] = [
       },
       {
         name: 'folder-components',
-        folderNames: ['components', 'widget', 'widgets'],
+        folderNames: ['components', 'widget', 'widgets', 'atoms'],
       },
       {
         name: 'folder-verdaccio',
@@ -432,7 +432,7 @@ export const folderIcons: FolderTheme[] = [
           'modules',
         ],
       },
-      { name: 'folder-middleware', folderNames: ['middleware', 'middlewares'] },
+      { name: 'folder-middleware', folderNames: ['middleware', 'middlewares', 'molecules'] },
       {
         name: 'folder-controller',
         folderNames: [
@@ -586,7 +586,7 @@ export const folderIcons: FolderTheme[] = [
         folderNames: ['glsl', 'hlsl', 'shader', 'shaders'],
       },
       { name: 'folder-stack', folderNames: ['stack', 'stacks'] },
-      { name: 'folder-template', folderNames: ['template', 'templates'] },
+      { name: 'folder-template', folderNames: ['template', 'templates', 'organisms'] },
       {
         name: 'folder-utils',
         folderNames: ['util', 'utils', 'utility', 'utilities'],
