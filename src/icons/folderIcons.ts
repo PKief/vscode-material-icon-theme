@@ -770,6 +770,10 @@ export const folderIcons: FolderTheme[] = [
         name: 'folder-unity',
         folderNames: ['unity'],
       },
+      {
+        name: 'folder-ruby_rbs',
+        folderNames: ['sig', '.gem_rbs_collection'],
+      },
     ],
   },
   {
