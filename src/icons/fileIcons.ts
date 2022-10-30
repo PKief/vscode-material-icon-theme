@@ -2084,6 +2084,7 @@ export const fileIcons: FileIcons = {
     { name: 'rome', fileNames: ['rome.json'] },
     {
       name: 'cypress',
+      light: true,
       fileNames: [
         'cypress.json',
         'cypress.env.json',
