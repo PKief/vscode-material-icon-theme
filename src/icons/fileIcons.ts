@@ -2167,5 +2167,13 @@ export const fileIcons: FileIcons = {
         `.nanostagedrc`,
       ],
     },
+    {
+      name: 'vuepress',
+      fileNames: [
+        `vuepress.config.ts`,
+        `vuepress.config.js`,
+        `vuepress.config.mjs`,
+      ],
+    },
   ],
 };
