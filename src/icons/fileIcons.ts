@@ -2167,5 +2167,10 @@ export const fileIcons: FileIcons = {
         `.nanostagedrc`,
       ],
     },
+    {
+      name: 'conventional-changelog',
+      light: true,
+      fileNames: [`.versionrc`, `.versionrc.js`, `.versionrc.json`],
+    },
   ],
 };
