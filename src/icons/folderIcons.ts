@@ -787,6 +787,9 @@ export const folderIcons: FolderTheme[] = [
         name: 'folder-unity',
         folderNames: ['unity'],
       },
+
+      { name: 'folder-cue', folderNames: ['cue.mod'] },
+
       {
         name: 'folder-pdf',
         folderNames: ['pdf', 'pdfs'],
@@ -794,7 +797,6 @@ export const folderIcons: FolderTheme[] = [
       {
         name: 'folder-proto',
         folderNames: ['protobufs', 'proto'],
-      },
     ],
   },
   {
