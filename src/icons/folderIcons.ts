@@ -807,6 +807,7 @@ export const folderIcons: FolderTheme[] = [
         name: 'folder-proto',
         folderNames: ['protobufs', 'proto'],
       },
+      { name: 'folder-qml', folderNames: ['.qml', 'qml'] },
     ],
   },
   {
