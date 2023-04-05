@@ -30,6 +30,8 @@
 
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/images/folderIcons.png" alt="folder icons">
 
+The [Icon Overview](/icons-overview.md) provides an alphabetized overview for all icons.
+
 #### Customize folder color
 
 You can change the color of the default folder icon using the command palette:
