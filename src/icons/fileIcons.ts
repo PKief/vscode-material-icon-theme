@@ -467,7 +467,11 @@ export const fileIcons: FileIcons = {
       ],
     },
     { name: 'lib', fileExtensions: ['lib', 'bib'] },
-    { name: 'ruby', fileExtensions: ['rb', 'erb'] },
+    {
+      name: 'ruby',
+      fileExtensions: ['rb', 'erb'],
+      fileNames: ['.ruby-version']
+    },
     { name: 'gemfile', fileNames: ['gemfile'] },
     {
       name: 'rubocop',
@@ -2298,6 +2302,18 @@ export const fileIcons: FileIcons = {
         '.cracorc.js',
         '.cracorc',
       ],
+    },
+    {
+      name: 'metro',
+      fileNames: [
+        'metro.config.ts',
+        'metro.config.js',
+        'metro.config.json',
+      ],
+    },
+    {
+      name: 'rnconfig',
+      fileNames: ['react-native.config.ts', 'react-native.config.js']
     },
     {
       name: 'gamemaker',
