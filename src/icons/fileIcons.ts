@@ -378,6 +378,7 @@ export const fileIcons: FileIcons = {
         'pyproject.toml',
       ],
     },
+    { name: 'pythowo', fileExtensions: ['pyowo'] },
     { name: 'url', fileExtensions: ['url'] },
     {
       name: 'console',
