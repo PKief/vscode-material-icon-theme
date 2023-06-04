@@ -2037,6 +2037,7 @@ export const fileIcons: FileIcons = {
       ],
     },
     { name: 'opa', fileExtensions: ['rego'] },
+    { name: 'semgrep', fileNames: ['.semgrep.yml', '.semgrepignore'] },
     { name: 'lerna', fileNames: ['lerna.json'] },
     {
       name: 'windicss',
