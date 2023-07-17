@@ -2396,5 +2396,6 @@ export const fileIcons: FileIcons = {
         'werf-giterminism.yml',
       ],
     },
+    { name: 'ph', fileNames: ['ph.config.ts'] }
   ],
 };
