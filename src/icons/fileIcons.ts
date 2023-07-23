@@ -251,6 +251,7 @@ export const fileIcons: FileIcons = {
         '.clang-tidy',
       ],
     },
+    { name: 'deepsource', fileNames: ['.deepsource.toml'] },
     {
       name: 'typescript-def',
       fileExtensions: ['d.ts', 'd.cts', 'd.mts'],
