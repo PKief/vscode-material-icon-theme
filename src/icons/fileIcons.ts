@@ -2187,6 +2187,7 @@ export const fileIcons: FileIcons = {
     },
     { name: 'poetry', fileNames: ['poetry.lock'] },
     { name: 'coala', fileExtensions: ['coarc', 'coafile'] },
+    { name: 'saltstack', fileExtensions: ['sls'], light: true },
     { name: 'parcel', fileNames: ['.parcelrc'] },
     {
       name: 'dinophp',
