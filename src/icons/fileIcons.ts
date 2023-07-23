@@ -2300,6 +2300,15 @@ export const fileIcons: FileIcons = {
         'steadybit.yaml',
       ],
     },
+    {
+      name: 'histoire-config',
+      fileNames: [
+        'histoire.config.ts',
+        'histoire.config.js',
+        '.histoire.ts',
+        '.histoire.js',
+      ],
+    },
     { name: 'tree', fileExtensions: ['tree'] },
     {
       name: 'cadence',
