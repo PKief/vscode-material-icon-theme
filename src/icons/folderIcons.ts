@@ -837,6 +837,10 @@ export const folderIcons: FolderTheme[] = [
         name: 'folder-godot',
         folderNames: ['godot', '.godot', 'godot-cpp', '.godot-cpp'],
       },
+      {
+        name: 'folder-web-components',
+        folderNames: ['web-components', 'webcomponents'],
+      },
     ],
   },
   {
