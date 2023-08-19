@@ -814,6 +814,10 @@ export const folderIcons: FolderTheme[] = [
         folderNames: ['unity'],
       },
       {
+        name: 'folder-modal',
+        folderNames: ['modal', 'modals'],
+      },
+      {
         name: 'folder-pdf',
         folderNames: ['pdf', 'pdfs'],
       },
