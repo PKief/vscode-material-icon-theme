@@ -617,7 +617,14 @@ export const folderIcons: FolderTheme[] = [
       { name: 'folder-changesets', folderNames: ['.changesets', '.changeset'] },
       {
         name: 'folder-packages',
-        folderNames: ['package', 'packages', 'pkg', 'pkgs'],
+        folderNames: [
+          'package',
+          'packages',
+          'pkg',
+          'pkgs',
+          'serverpackages',
+          'devpackages',
+        ],
       },
       { name: 'folder-shared', folderNames: ['shared', 'common'] },
       {
@@ -857,6 +864,10 @@ export const folderIcons: FolderTheme[] = [
       {
         name: 'folder-godot',
         folderNames: ['godot', '.godot', 'godot-cpp', '.godot-cpp'],
+      },
+      {
+        name: 'folder-luau',
+        folderNames: ['luau'],
       },
     ],
   },

@@ -2415,6 +2415,16 @@ export const fileIcons: FileIcons = {
       ],
     },
     { name: 'roblox', fileExtensions: ['rbxl', 'rbxlx', 'rbxm', 'rbxmx'] },
+    { name: 'luau', fileExtensions: ['luau'] },
+    {
+      name: 'rojo',
+      fileExtensions: ['project.json', 'model.json', 'meta.json'],
+    },
+    { name: 'wally', fileNames: ['wally.toml'] },
+    {
+      name: 'rbxmk',
+      fileExtensions: ['rbxmk.lua'],
+    },
     {
       name: 'panda',
       fileNames: [
