@@ -85,6 +85,7 @@ export const folderIcons: FolderTheme[] = [
         light: true,
       },
       { name: 'folder-markdown', folderNames: ['markdown', 'md'] },
+      { name: 'folder-restructuredtext', folderNames: ['restructuredtext', 'sphinx'] },
       { name: 'folder-php', folderNames: ['php'] },
       { name: 'folder-phpmailer', folderNames: ['phpmailer'] },
       { name: 'folder-sublime', folderNames: ['sublime'] },

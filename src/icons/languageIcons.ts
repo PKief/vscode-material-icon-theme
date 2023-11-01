@@ -110,6 +110,7 @@ export const languageIcons: LanguageIcon[] = [
   { icon: { name: 'clojure' }, ids: ['clojure'] },
   { icon: { name: 'groovy' }, ids: ['groovy'] },
   { icon: { name: 'markdown' }, ids: ['markdown'] },
+  { icon: { name: 'restructuredtext' }, ids: ['restructuredtext'] },
   { icon: { name: 'jinja' }, ids: ['jinja'] },
   { icon: { name: 'proto' }, ids: ['proto'] },
   { icon: { name: 'python-misc' }, ids: ['pip-requirements'] },
