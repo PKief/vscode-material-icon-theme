@@ -41,6 +41,8 @@ export const fileIcons: FileIcons = {
         '.whitesource',
       ],
     },
+    { name: 'jsonnet', fileExtensions: ['jsonnet'] },
+    { name: 'libsonnet', fileExtensions: ['libsonnet'] },
     {
       name: 'jinja',
       fileExtensions: ['jinja', 'jinja2', 'j2', 'jinja-html'],
