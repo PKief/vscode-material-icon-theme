@@ -638,6 +638,7 @@ export const folderIcons: FolderTheme[] = [
       { name: 'folder-windows', folderNames: ['windows'] },
       { name: 'folder-macos', folderNames: ['macos', '.DS_Store'] },
       { name: 'folder-error', folderNames: ['error', 'errors', 'err'] },
+      { name: 'folder-adr', folderNames: ['adr', 'decisions'] },
       { name: 'folder-event', folderNames: ['event', 'events'] },
       {
         name: 'folder-secure',
