@@ -470,6 +470,15 @@ export const fileIcons: FileIcons = {
         'mrf',
       ],
     },
+    {
+      name: 'installation',
+      fileNames: [
+        'installation',
+        'installation.md',
+        'installation.rst',
+        'installation.txt',
+      ],
+    },
     { name: 'lib', fileExtensions: ['lib', 'bib'] },
     {
       name: 'ruby',
