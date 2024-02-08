@@ -600,6 +600,8 @@ export const folderIcons: FolderTheme[] = [
           'calcs',
           'calculation',
           'calculations',
+          'rpc',
+          'rpcs'
         ],
       },
       {
