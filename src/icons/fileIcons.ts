@@ -901,6 +901,19 @@ export const fileIcons: FileIcons = {
       light: true,
     },
     {
+      name: 'openapi',
+      fileExtensions: ['openapi.json', 'openapi.yml', 'openapi.yaml'],
+    },
+    {
+      name: 'swagger',
+      fileExtensions: [
+        'swagger.json',
+        'swagger-config.yaml',
+        'swagger.yml',
+        'swagger.yaml',
+      ],
+    },
+    {
       name: 'verdaccio',
       fileNames: ['verdaccio.yml'],
     },
