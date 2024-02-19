@@ -116,6 +116,7 @@ export const folderIcons: FolderTheme[] = [
         name: 'folder-git',
         folderNames: [
           '.git',
+          'git',
           'patches',
           'githooks',
           '.githooks',
@@ -878,12 +879,21 @@ export const folderIcons: FolderTheme[] = [
         folderNames: ['gamemaker', 'gamemaker2'],
       },
       {
+        name: 'folder-c',
+        folderNames: ['c', 'i', 'mi'],
+      },
+      {
+        name: 'folder-cpp',
+        folderNames: ['cpp', 'cc', 'cxx', 'c++', 'cp', 'c++'],
+      },
+      {
         name: 'folder-mercurial',
         folderNames: ['.hg', 'hghooks', '.hghooks', '.hgext'],
       },
       {
         name: 'folder-godot',
         folderNames: ['godot', '.godot', 'godot-cpp', '.godot-cpp'],
+        main
       },
       {
         name: 'folder-lottie',
