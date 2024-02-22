@@ -893,6 +893,10 @@ export const folderIcons: FolderTheme[] = [
         name: 'folder-taskfile',
         folderNames: ['taskfile', 'taskfiles', '.taskfile', '.taskfiles'],
       },
+      {
+        name: 'folder-repository',
+        folderNames: ['repository', 'repositories'],
+      },
     ],
   },
   {
