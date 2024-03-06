@@ -900,6 +900,9 @@ export const folderIcons: FolderTheme[] = [
         name: 'folder-cloudflare',
         folderNames: ['cloudflare', '.cloudflare'],
       },
+      { name: 'folder-atom', folderNames: ['atom', 'atoms'] },
+      { name: 'folder-molecule', folderNames: ['molecule', 'molecules'] },
+      { name: 'folder-organism', folderNames: ['organism', 'organisms'] },
     ],
   },
   {
