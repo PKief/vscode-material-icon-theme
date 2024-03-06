@@ -2410,6 +2410,10 @@ export const fileIcons: FileIcons = {
       ],
     },
     {
+      name: 'docusaurus',
+      fileNames: ['docusaurus.config.js']
+    },
+    {
       name: 'taskfile',
       fileExtensions: ['taskfile.yml', 'taskfile.yaml'],
       fileNames: [
