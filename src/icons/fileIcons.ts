@@ -901,6 +901,11 @@ export const fileIcons: FileIcons = {
       light: true,
     },
     {
+      name: 'codesandbox',
+      fileNames: ['sandbox.config.json'],
+      light: true,
+    },
+    {
       name: 'verdaccio',
       fileNames: ['verdaccio.yml'],
     },
