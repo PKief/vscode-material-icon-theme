@@ -900,6 +900,10 @@ export const folderIcons: FolderTheme[] = [
         name: 'folder-cloudflare',
         folderNames: ['cloudflare', '.cloudflare'],
       },
+      {
+        name: 'folder-shopify',
+        folderNames: ['shopify']
+      }
     ],
   },
   {
