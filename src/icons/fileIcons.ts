@@ -2569,5 +2569,14 @@ export const fileIcons: FileIcons = {
         '.k8s.yaml',
       ],
     },
+    {
+      name: 'contenthook',
+      fileNames: [
+        'contenthook.config.js',
+        'contenthook.config.cjs',
+        'contenthook.config.mjs',
+        'contenthook.config.ts',
+      ],
+    },
   ],
 };
