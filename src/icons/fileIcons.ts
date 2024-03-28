@@ -2569,5 +2569,6 @@ export const fileIcons: FileIcons = {
         '.k8s.yaml',
       ],
     },
+    { name: 'umi', fileNames: ['.umirc.ts', '.umirc.js'] },
   ],
 };
