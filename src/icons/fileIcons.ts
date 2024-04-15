@@ -238,6 +238,7 @@ export const fileIcons: FileIcons = {
         'sln.dotsettings',
         'sln.dotsettings.user',
         'cfg',
+        'cnf',
       ],
       fileNames: [
         '.jshintignore',
@@ -247,6 +248,7 @@ export const fileIcons: FileIcons = {
         'manifest.mf',
         '.clang-format',
         '.clang-tidy',
+        '.conf'
       ],
     },
     {
@@ -1253,6 +1255,8 @@ export const fileIcons: FileIcons = {
         '.env.staging.local',
         '.env.test.local',
         '.env.uat',
+        '.vars',
+        '.secrets',
       ],
     },
     {
