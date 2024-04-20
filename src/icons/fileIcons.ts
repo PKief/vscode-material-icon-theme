@@ -2603,5 +2603,9 @@ export const fileIcons: FileIcons = {
         '.k8s.yaml',
       ],
     },
+    {
+      name: 'phpstan',
+      fileNames: ['phpstan.neon', 'phpneon.neon.dist'],
+    },
   ],
 };
