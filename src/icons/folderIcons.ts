@@ -787,6 +787,10 @@ export const folderIcons: FolderTheme[] = [
         folderNames: ['vercel', 'now'],
       },
       {
+        name: 'folder-turborepo',
+        folderNames: ['.turbo'],
+      },
+      {
         name: 'folder-cypress',
         folderNames: ['cypress'],
       },
