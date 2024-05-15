@@ -2403,5 +2403,6 @@ export const fileIcons: FileIcons = {
         '.k8s.yaml',
       ],
     },
+    { name: 'chapel', fileExtensions: ['chpl'] },
   ]),
 };
