@@ -483,6 +483,15 @@ export const fileIcons: FileIcons = {
         'mrf',
       ],
     },
+    {
+      name: 'installation',
+      fileNames: [
+        'installation',
+        'installation.md',
+        'installation.rst',
+        'installation.txt',
+      ],
+    },
     { name: 'lib', fileExtensions: ['lib', 'bib', 'a'] },
     { name: 'dll', fileExtensions: ['dll', 'ilk', 'so'] },
     {
