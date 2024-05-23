@@ -2257,6 +2257,10 @@ export const fileIcons: FileIcons = {
       ],
     },
     {
+      name: 'docusaurus',
+      fileNames: ['docusaurus.config.js'],
+    },
+    {
       name: 'knip',
       fileNames: [
         'knip.json',
