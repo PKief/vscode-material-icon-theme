@@ -2422,5 +2422,9 @@ export const fileIcons: FileIcons = {
       name: 'container',
       fileNames: ['.devcontainer/devcontainer.json'],
     },
+    {
+      name: 'citation',
+      fileNames: ['citation.cff'],
+    },
   ]),
 };
