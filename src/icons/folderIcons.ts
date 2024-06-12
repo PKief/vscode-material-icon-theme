@@ -859,6 +859,9 @@ export const folderIcons: FolderTheme[] = [
         name: 'folder-seeders',
         folderNames: ['seeds', 'seeders', 'seed', 'seeding'],
       },
+      { name: 'folder-atom', folderNames: ['atom', 'atoms'] },
+      { name: 'folder-molecule', folderNames: ['molecule', 'molecules'] },
+      { name: 'folder-organism', folderNames: ['organism', 'organisms'] },
     ],
   },
   {
