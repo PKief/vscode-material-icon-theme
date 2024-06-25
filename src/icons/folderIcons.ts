@@ -859,6 +859,11 @@ export const folderIcons: FolderTheme[] = [
         name: 'folder-seeders',
         folderNames: ['seeds', 'seeders', 'seed', 'seeding'],
       },
+      {
+        name: 'folder-angular-directive',
+        folderNames: ['directives'],
+        enabledFor: [IconPack.Angular],
+      },
     ],
   },
   {
