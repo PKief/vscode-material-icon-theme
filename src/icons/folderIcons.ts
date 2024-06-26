@@ -859,6 +859,18 @@ export const folderIcons: FolderTheme[] = [
         name: 'folder-seeders',
         folderNames: ['seeds', 'seeders', 'seed', 'seeding'],
       },
+      {
+        name: 'folder-jupyter',
+        folderNames: ['juputer', '.jupyter']
+      },
+      {
+        name: 'folder-julia',
+        folderNames: ['julia', '.julia']
+      },
+      {
+        name: 'folder-r',
+        folderNames: ['r', '.r']
+      },
     ],
   },
   {
