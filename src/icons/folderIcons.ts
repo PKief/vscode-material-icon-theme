@@ -847,6 +847,7 @@ export const folderIcons: FolderTheme[] = [
         name: 'folder-lottie',
         folderNames: ['lottie', 'lotties', 'lottiefiles'],
       },
+      { name: 'folder-ui', folderNames: ['ui', 'ux', 'gui', 'user-interface'] },
       {
         name: 'folder-taskfile',
         folderNames: ['taskfile', 'taskfiles'],
